@@ -1,75 +1,129 @@
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg">
-  <img src="assets/hero-data.svg" width="840" alt="Mostafa Mohamed — Data Analyst | Analytics & Automation. Turning business data into insights, dashboards and automated actions.">
-</picture>
-
-<p align="center">
-  <a href="#project-explorer">Projects</a> ·
-  <a href="#system-stack">System Stack</a> ·
-  <a href="#automation-lab">Automation Lab</a> ·
-  <a href="#connect">Connect</a>
-</p>
+<div align="center">
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/capabilities-mobile.svg">
-  <img src="assets/capabilities.svg" width="840" alt="Analytics: Power BI, DAX, Excel. Automation: n8n. Data: intermediate SQL. Focus: business solutions.">
+  <source media="(max-width: 600px)" srcset="assets/v2/header-mobile.svg">
+  <img src="assets/v2/header.svg" width="100%" alt="From business data to business action — analytics and automation connected.">
 </picture>
 
-I connect analysis with automation: preparing business data, building useful dashboards, and reducing the repetitive work around reporting.
+# Mostafa Mohamed
 
-## Project Explorer
+### Data Analyst | Analytics & Automation
 
-<a href="https://mostafamoahmed.netlify.app/">
-  <img src="assets/portfolio.svg" width="420" alt="Explore my project portfolio — open portfolio">
-</a>
-
-[View portfolio →](https://mostafamoahmed.netlify.app/)
-
-<!-- Add verified case-study cards here using CASE-STUDY-TEMPLATE.md.
-Only publish real project names, descriptions, screenshots, stacks and URLs.
-Keep the strongest 4–6 projects. No example projects are presented as completed work. -->
-
-## Data → Business Action
-
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/pipeline-mobile.svg">
-  <img src="assets/pipeline.svg" width="840" alt="Data: collect and clean → Analysis: model and explore → Insight: explain patterns → Dashboard: track performance → Automation: connect workflows → Action: alert and follow up.">
-</picture>
-
-**The goal:** make information useful, then automate the next step where it makes business sense.
-
-## System Stack
+I turn business data into clear insights, useful dashboards, and automated workflows.
 
 <p>
-  <img src="assets/stack-analyze.svg" width="400" alt="Analyze — core strengths: Power BI, DAX, Excel, Power Query, dashboard design and KPI reporting.">
-  <img src="assets/stack-data.svg" width="400" alt="Data — intermediate SQL, data modeling, relational databases, data cleaning and transformation.">
-  <img src="assets/stack-automate.svg" width="400" alt="Automate — n8n, workflow automation, scheduled workflows, database integration, validation, retries and logging.">
-  <img src="assets/stack-next.svg" width="400" alt="Building next — advanced SQL, REST APIs, JSON, webhooks, API authentication, basic Python and Git / GitHub.">
+  <a href="https://www.linkedin.com/in/mostafa-mohamed-2749b42a4/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://mostafamoahmed.netlify.app/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="mailto:mostafaelramady516@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://github.com/mostafaelramady05?tab=repositories">Repositories</a>
 </p>
 
-## How I Think About Data
+<sub>POWER BI &nbsp;/&nbsp; DAX &nbsp;/&nbsp; EXCEL &nbsp;/&nbsp; POWER QUERY &nbsp;/&nbsp; n8n</sub>
 
-<img src="assets/thinking.svg" width="420" alt="Frame: business problem → questions → data. Understand: cleaning → analysis → insight. Act: dashboard → automation → decision.">
+</div>
 
-Start with the decision the business needs to make. Work back to the questions, data, and checks needed to support it.
+## About my work
 
-## Automation Lab
+I work between **business analytics and process automation**. I clean and model data, build Power BI reports, and connect recurring tasks with n8n and database workflows.
 
-**Workflow patterns** I build toward and explore—not a list of completed projects. Each pattern depends on the business rules, data quality, and integration available.
+My projects cover production planning, invoice processing, financial reporting, and job-market analysis. I start with the business question, then build the data flow needed to answer it.
 
-<p>
-  <img src="assets/lab-reporting.svg" width="400" alt="Reporting pattern: email and Excel or CSV → cleaning and validation → database → reporting.">
-  <img src="assets/lab-api.svg" width="400" alt="Integration pattern: API → data retrieval → transformation and validation → dataset → dashboard. API integration is a developing skill.">
-  <img src="assets/lab-invoice.svg" width="400" alt="Invoice pattern: invoice → field extraction → validation and exception review → approved data → ERP.">
-  <img src="assets/lab-alert.svg" width="400" alt="Monitoring pattern: database → KPI check → business rules → alert → follow-up action.">
-</p>
+## Selected work
 
-## Learning Radar
+<table>
+<tr><td>
+<sub>01 / BUSINESS AUTOMATION</sub>
+<h3><a href="https://github.com/mostafaelramady05/AI-Assisted-Purchase-Invoice-Automation">AI-Assisted Purchase Invoice Automation</a></h3>
+<p>Purchase documents need more than data extraction: missing fields, duplicate records, and uncertain suppliers require checks before posting.</p>
+<p>I built an upload-to-status workflow that extracts document data, validates it, routes exceptions for review, posts to Daftra, and verifies the outcome.</p>
+<p><code>n8n</code> <code>AI document extraction</code> <code>Daftra</code> <code>Google Drive</code> <code>Google Sheets</code></p>
+<p><a href="https://github.com/mostafaelramady05/AI-Assisted-Purchase-Invoice-Automation">Read the case study →</a></p>
+</td></tr>
+</table>
 
-<img src="assets/learning-radar.svg" width="420" alt="Developing advanced SQL; REST APIs, HTTP, JSON and webhooks; Python from a basic foundation; Git / GitHub; analytical and business problem-solving.">
+<details>
+<summary><strong>Inside the invoice workflow</strong></summary>
 
-## Connect
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/v2/invoice-dark.svg">
+  <img src="assets/v2/invoice-light.svg" width="520" alt="Upload → classify and extract → validate. Ready documents go to Daftra, then verification and final status. Exceptions go to human review; uncertain saves go to reconciliation.">
+</picture>
 
-<img src="assets/connect.svg" width="420" alt="Connect with Mostafa Mohamed — analytics, reporting and business automation.">
+Public architecture overview. The production workflow and business data remain private.
 
-[LinkedIn](https://www.linkedin.com/in/mostafa-mohamed-2749b42a4/) · [Portfolio](https://mostafamoahmed.netlify.app/) · [Email](mailto:mostafaelramady516@gmail.com)
+</details>
+
+<table>
+<tr><td>
+<sub>02 / PRODUCTION & INVENTORY</sub>
+<h3><a href="https://github.com/mostafaelramady05/Supply-Chain-MRP-Analytics">MRP & Production Tracking</a></h3>
+<p>Production plans and raw-material inventory need to be compared at the right level of detail.</p>
+<p>A Power BI model connects finished goods, bills of materials, and inventory to calculate material requirements and highlight shortages and plan-versus-actual differences.</p>
+<p><code>Power BI</code> <code>DAX</code> <code>Data Modeling</code> <code>BOM</code></p>
+<p><a href="https://app.powerbi.com/view?r=eyJrIjoiYjM3ZWNjNjctMjUwYi00NGQzLTk5NjItNzQzODBiNDc0YzNhIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9">Open dashboard</a> · <a href="https://github.com/mostafaelramady05/Supply-Chain-MRP-Analytics">Repository</a></p>
+</td></tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/mostafaelramady05/Wuzzuf-Jobs-Analysis"><img src="assets/v2/wuzzuf-dashboard.png" width="100%" alt="Wuzzuf dashboard showing job requirements, work types, and hiring locations."></a>
+<h3>Wuzzuf Job-Market Analysis</h3>
+<p>Collected job postings become a refreshable Excel / Power Query dataset and a Power BI view of hiring patterns.</p>
+<p><code>Power BI</code> <code>Power Query</code> <code>Excel</code> <code>Python</code></p>
+<p><sub>Learning project; the scraper GUI was built with AI assistance.</sub></p>
+<p><a href="https://app.powerbi.com/view?r=eyJrIjoiNmRhOWUyYmItMDA1Ni00MDQ3LWFlZGUtYjY4MTExODdkNjEzIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9&embedImagePlaceholder=true">Dashboard</a> · <a href="https://github.com/mostafaelramady05/Wuzzuf-Jobs-Analysis">Repository</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/mostafaelramady05/Profit-and-Loss-Analyzer"><img src="assets/v2/profit-dashboard.png" width="100%" alt="Profit and Loss dashboard showing revenue, gross margin, and monthly comparisons."></a>
+<h3>Profit & Loss Analyzer</h3>
+<p>Revenue, costs, and operating income brought together with financial comparisons and what-if scenarios.</p>
+<p><code>Power BI</code> <code>DAX</code> <code>Scenario Analysis</code></p>
+<p><a href="https://github.com/mostafaelramady05/Profit-and-Loss-Analyzer">Explore the project →</a></p>
+</td>
+</tr>
+</table>
+
+## How the pieces connect
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v2/flow-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/v2/flow-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/v2/flow-dark.svg">
+  <img src="assets/v2/flow-light.svg" width="100%" alt="Business sources → clean and validate → database and data model → analysis and Power BI → n8n automation → business action. Illustrative approach; each project uses the steps it needs.">
+</picture>
+
+**Start with a business problem.** Define the question, check the data, explain what matters, and automate the repeatable steps where useful.
+
+## Tools I work with
+
+| Area | My working stack |
+| :--- | :--- |
+| **Analytics & BI** | Power BI · DAX · Excel · Power Query |
+| **Data preparation** | Cleaning · Transformation · Data Modeling · KPI Reporting |
+| **Automation** | n8n · Scheduled & email-triggered workflows · Database integration |
+| **Workflow reliability** | Data validation · Error handling · Retry logic · Logging |
+| **Databases** | SQL — intermediate · Relational databases · Data extraction |
+
+<details>
+<summary><strong>What I’m developing next</strong></summary>
+
+- **Advanced SQL:** stronger queries and analytical problem-solving.
+- **Integrations:** REST APIs, HTTP requests, JSON, webhooks, and authentication.
+- **Python:** building on basic knowledge for data processing and automation.
+- **Git / GitHub:** version control and clearer project documentation.
+- **Business analysis:** better questions, metric definitions, and interpretation.
+
+</details>
+
+## Let’s connect
+
+Interested in Power BI dashboards, reporting automation, or connecting a repetitive business process? Let’s talk.
+
+<div align="center">
+
+[LinkedIn](https://www.linkedin.com/in/mostafa-mohamed-2749b42a4/) &nbsp;·&nbsp; [Portfolio](https://mostafamoahmed.netlify.app/) &nbsp;·&nbsp; [Email](mailto:mostafaelramady516@gmail.com)
+
+<img src="assets/v2/footer.svg" width="520" alt="Clear data. Useful insight. Less repetitive work.">
+
+</div>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="112" viewBox="0 0 520 112" role="img" aria-labelledby="title">
+  <title id="title">Clear data. Useful insight. Less repetitive work.</title>
+  <defs><linearGradient id="bg"><stop stop-color="#0c1628"/><stop offset="1" stop-color="#123c42"/></linearGradient></defs>
+  <style>.flow{animation:flow 12s linear infinite}@keyframes flow{to{stroke-dashoffset:-240}}@media(prefers-reduced-motion:reduce){.flow{animation:none}}text{font-family:Arial,Helvetica,sans-serif}</style>
+  <rect width="520" height="112" rx="16" fill="url(#bg)"/>
+  <path d="M-20 100 C90 28 170 128 280 74 S410 122 540 40" stroke="#62d6ca" stroke-width="2" stroke-dasharray="4 16" opacity=".3" fill="none" class="flow"/>
+  <text x="260" y="43" text-anchor="middle" font-size="23" font-weight="600" fill="#d5e7f5">Clear data. Useful insight.</text>
+  <text x="260" y="74" text-anchor="middle" font-size="18" fill="#84d8ca">Less repetitive work.</text>
+</svg>
