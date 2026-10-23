@@ -1,92 +1,132 @@
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/v3/header-mobile.svg">
-  <img src="assets/v3/header.svg" width="100%" alt="Mostafa Mohamed Elramady — Data Analyst. Business dashboards, financial reporting, and practical process improvement.">
-</picture>
-
 <div align="center">
 
-### [Explore my portfolio ↗](https://mostafa-mohamed-portfolio-one.vercel.app/)
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/v4/intro-mobile.svg">
+  <img src="assets/v4/intro.svg" width="100%" alt="Hi, I'm Mostafa Mohamed Elramady — Data Analyst. Power BI, business reporting, and practical process automation.">
+</picture>
 
-[LinkedIn](https://www.linkedin.com/in/mostafa-mohamed-2749b42a4/) &nbsp; · &nbsp; [Email](mailto:mostafaelramady516@gmail.com) &nbsp; · &nbsp; [Live invoice workflow](https://mostafaelramady05.github.io/AI-Assisted-Purchase-Invoice-Automation/workflow-viewer.html)
+**Business context → Data preparation → Analysis → Practical decisions**
+
+<a href="https://mostafa-mohamed-portfolio-one.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/mostafa-mohamed-2749b42a4/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"></a>
+<a href="mailto:mostafaelramady516@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
 
 </div>
 
-I build **Power BI dashboards and business reports** that make financial and operational performance easier to understand. My accounting work with Saudi companies gives me practical context for the questions behind the numbers.
+## The person behind the dashboards
 
-**Based in Egypt** · Fourth-year **BIS student at Tanta University**, Excellent academic standing · General Accountant since **May 2025**
+- 🎓 Fourth-year **Business Information Systems student at Tanta University**, with an **Excellent** academic standing.
+- 📊 **Data Analyst** with three delivered client dashboard projects across manufacturing, inventory, and hospitality.
+- 💼 **General Accountant since May 2025**, working remotely from Egypt through an accounting office serving Saudi companies in different industries.
+- 🧾 My accounting work includes sales and purchase invoices, tax returns, and zakat returns.
+- ⚡ I use **n8n automation to improve accounting and data tasks**, including a working invoice-processing system integrated with Daftra.
 
-## Selected client work
+## My toolkit, by purpose
 
-Three delivered dashboards across production planning, inventory, and children's hospitality.
+### 📊 Analytics & Business Intelligence
+
+<p>
+<img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-D5A807?style=for-the-badge&amp;logo=powerbi&amp;logoColor=white">
+<img alt="DAX" src="https://img.shields.io/badge/DAX-237B4B?style=for-the-badge">
+<img alt="Data Modeling" src="https://img.shields.io/badge/Data%20Modeling-2673B8?style=for-the-badge">
+</p>
+
+### 📑 Excel & Data Preparation
+
+<p>
+<img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&amp;logo=microsoftexcel&amp;logoColor=white">
+<img alt="Power Query" src="https://img.shields.io/badge/Power%20Query-287A45?style=for-the-badge">
+<img alt="Power Pivot" src="https://img.shields.io/badge/Power%20Pivot-347E50?style=for-the-badge">
+</p>
+
+### 🗄️ Data & Transformations
+
+<p>
+<img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&amp;logo=microsoftsqlserver&amp;logoColor=white">
+<img alt="SQL" src="https://img.shields.io/badge/SQL-2F74A6?style=for-the-badge">
+<img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&amp;logo=dbt&amp;logoColor=white">
+</p>
+
+### ⚡ Process Automation & ERP
+
+<p>
+<img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&amp;logo=n8n&amp;logoColor=white">
+<img alt="APIs" src="https://img.shields.io/badge/APIs-1F7297?style=for-the-badge">
+<img alt="Daftra ERP" src="https://img.shields.io/badge/Daftra%20ERP-256D56?style=for-the-badge">
+<img alt="ERP Systems" src="https://img.shields.io/badge/ERP%20Systems-425B76?style=for-the-badge">
+</p>
+
+**How I use these tools:** prepare the data, build the model, define useful KPIs, and make the result easier to act on. Each project below identifies its specific stack.
+
+## Selected work / real business problems
 
 <table>
 <tr><td>
-<sub>01 / MANUFACTURING · FORTUNE CAPITAL</sub>
-<h3>Production &amp; Material Planning</h3>
-<p>Connect production plans, bills of materials, and inventory to review <strong>material requirements, shortages, and planned versus actual performance.</strong></p>
+<sub>01 / PRODUCTION PLANNING · CLIENT WORK</sub>
+<h3>Can the available materials support the production plan?</h3>
+<p><strong>Production &amp; Material Planning — Fortune Capital</strong><br>Connected production plans, bills of materials, and inventory to review requirements, shortages, and planned versus actual performance.</p>
 <p><code>Power BI</code> <code>DAX</code> <code>Power Query</code> <code>Data Modeling</code></p>
-<p><a href="https://mostafa-mohamed-portfolio-one.vercel.app/projects/manufacturing-mrp-inventory"><strong>Explore the case study ↗</strong></a> &nbsp;·&nbsp; <a href="https://github.com/mostafaelramady05/Supply-Chain-MRP-Analytics">Project repository</a></p>
+<p><a href="https://mostafa-mohamed-portfolio-one.vercel.app/projects/manufacturing-mrp-inventory"><strong>Explore the case study ↗</strong></a> · <a href="https://github.com/mostafaelramady05/Supply-Chain-MRP-Analytics">Repository</a></p>
 </td></tr>
 <tr><td>
-<sub>02 / INVENTORY · FORTUNE CAPITAL</sub>
-<h3>Inventory Movement &amp; Aging</h3>
-<p>Review <strong>stock movement, slow-moving items, aging, availability, and item balances</strong> through connected overview and detail pages.</p>
+<sub>02 / INVENTORY · CLIENT WORK</sub>
+<h3>Which stock is moving — and which needs attention?</h3>
+<p><strong>Inventory Movement &amp; Aging — Fortune Capital</strong><br>Views of inbound/outbound movement, aging, availability, slow-moving items, and item balances.</p>
 <p><code>Power BI</code> <code>DAX</code> <code>Excel</code> <code>Power Query</code></p>
 <p><a href="https://mostafa-mohamed-portfolio-one.vercel.app/projects/inventory-movement-aging"><strong>Explore the case study ↗</strong></a></p>
 </td></tr>
 <tr><td>
-<sub>03 / HOSPITALITY · JEDDAH, SAUDI ARABIA</sub>
-<h3>Children’s Hospitality Performance</h3>
-<p>Bring <strong>revenue, expenses, profitability, attendance, and customer segments</strong> together for recurring management review.</p>
-<p><code>Power BI</code> <code>Excel</code> <code>Daftra ERP</code> <code>Data Modeling</code></p>
+<sub>03 / BUSINESS PERFORMANCE · CLIENT WORK</sub>
+<h3>How do financial results connect to customer activity?</h3>
+<p><strong>Children’s Hospitality Performance — Jeddah</strong><br>A management dashboard connecting revenue, expenses, profit, attendance, and customer segments.</p>
+<p><code>Power BI</code> <code>Excel</code> <code>Daftra ERP</code></p>
 <p><a href="https://mostafa-mohamed-portfolio-one.vercel.app/projects/saudi-childcare-performance"><strong>Explore the case study ↗</strong></a></p>
 </td></tr>
 </table>
 
-## Capabilities, connected to the work
+## Beyond dashboards / making the process work
 
-| What I do | Tools I work with | Where to see it |
-| :--- | :--- | :--- |
-| **Build performance dashboards** | Power BI · DAX · Data Modeling | Client dashboards above |
-| **Prepare and combine business data** | Excel · Power Query · Power Pivot | Production planning and reporting projects |
-| **Query and transform data** | SQL · dbt | Part of my analytics toolkit; each project specifies the tools used. |
-| **Improve recurring processes** | n8n · APIs · ERP Systems · Daftra | Invoice workflow below |
+### Purchase Invoice Automation
 
-## Accounting knowledge, applied to process improvement
+**Upload → Extract → Validate → Record in Daftra → Verify & track**
 
-### [↗ Explore the live invoice workflow](https://mostafaelramady05.github.io/AI-Assisted-Purchase-Invoice-Automation/workflow-viewer.html)
+I designed the document routing, accounting checks, review paths, ERP integration, and upload/status experience. The workflow handles purchase invoices, simplified tax invoices, and supplier payment receipts.
 
-A working system that connects **document upload → extraction → accounting checks → Daftra posting → verification and status tracking**.
+<div align="center">
 
-I designed the workflow, validation and review paths, ERP integration, and upload/status experience. Open the interactive map to zoom into the workflow, search nodes, and explore its structure.
+### [🔎 Explore the live n8n workflow](https://mostafaelramady05.github.io/AI-Assisted-Purchase-Invoice-Automation/workflow-viewer.html)
 
-[**Read the project on GitHub →**](https://github.com/mostafaelramady05/AI-Assisted-Purchase-Invoice-Automation) &nbsp; · &nbsp; [Portfolio case study](https://mostafa-mohamed-portfolio-one.vercel.app/projects/purchase-invoice-automation)
+**Zoom · Search nodes · Explore connected accounting paths**
+
+[View the project on GitHub](https://github.com/mostafaelramady05/AI-Assisted-Purchase-Invoice-Automation) · [Read the portfolio case study](https://mostafa-mohamed-portfolio-one.vercel.app/projects/purchase-invoice-automation)
+
+</div>
+
+## The project shelf
 
 <details>
-<summary><strong>More analytics projects — personal and learning work</strong></summary>
+<summary><strong>Explore personal and learning projects</strong></summary>
 
-### Profit & Loss Analyzer
+| Project | Focus | Repository |
+| :--- | :--- | :--- |
+| **Profit & Loss Analyzer** | Financial reporting, DAX, and what-if scenarios | [Explore ↗](https://github.com/mostafaelramady05/Profit-and-Loss-Analyzer) |
+| **Wuzzuf Job-Market Analysis** | Job data collection, preparation, and Power BI reporting | [Explore ↗](https://github.com/mostafaelramady05/Wuzzuf-Jobs-Analysis) |
+| **Logistics & Fleet Management** | Freight revenue, fleet costs, and operational reporting | [Explore ↗](https://github.com/mostafaelramady05/Fleet-Management) |
 
-Financial reporting and what-if scenarios built with Power BI and DAX.
-
-[View repository](https://github.com/mostafaelramady05/Profit-and-Loss-Analyzer)
-
-### Wuzzuf Job-Market Analysis
-
-A project connecting collected job listings, data preparation, and Power BI reporting. The scraper GUI was built with AI assistance.
-
-[View repository](https://github.com/mostafaelramady05/Wuzzuf-Jobs-Analysis)
-
-### Logistics & Fleet Management
-
-Operational reporting for freight revenue, fleet costs, and vehicle-level analysis.
-
-[View repository](https://github.com/mostafaelramady05/Fleet-Management)
+The Wuzzuf scraper GUI was built with AI assistance. These projects are personal/learning work; client work is identified separately above.
 
 </details>
 
----
+## Let’s build something useful
 
-### Have a reporting or data problem to solve?
+Have a dashboard, reporting, or data problem to work through? Let’s talk.
 
-[**Let’s talk →**](mailto:mostafaelramady516@gmail.com) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/mostafa-mohamed-2749b42a4/) &nbsp; · &nbsp; [Portfolio](https://mostafa-mohamed-portfolio-one.vercel.app/)
+<div align="center">
+
+<a href="https://mostafa-mohamed-portfolio-one.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/mostafa-mohamed-2749b42a4/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"></a>
+<a href="mailto:mostafaelramady516@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
+
+**Clear data. Useful insight. Practical improvements.**
+
+</div>
